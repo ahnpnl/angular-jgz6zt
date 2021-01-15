@@ -1,10 +1,6 @@
 import { TestBed, waitForAsync } from '@angular/core/testing';
 import { AppComponent } from './app-initial.component';
-/*
-import { AppComponent } from './app.component';
 
-describe('AppComponent', () => {
-*/
 describe('AppComponent (initial CLI version)', () => {
   beforeEach(waitForAsync(() => {
     TestBed
